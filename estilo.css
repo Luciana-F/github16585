@@ -2,3 +2,7 @@ h1{
     color: brown;
     border: solid 2px green;
 }
+p{
+    color: dimgrey;
+    background-color: gold;
+}
